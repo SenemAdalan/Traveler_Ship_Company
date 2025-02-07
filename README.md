@@ -16,7 +16,7 @@ Bu proje **Gezgin Gemi Şirketi** ile ilgili verileri yönetmek için bir **Veri
 
 ---
 
-## 📂 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - **Python** 🐍 
 - **Tkinter** 🎨 (GUI oluşturmak için)
 - **Pyodbc** 🔗 (SQL Server bağlantısı için)
